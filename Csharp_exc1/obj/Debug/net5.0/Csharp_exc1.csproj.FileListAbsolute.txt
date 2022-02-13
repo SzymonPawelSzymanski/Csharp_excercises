@@ -1,0 +1,16 @@
+C:\Szymek_pliki\Projekty_C#\Csharp_exc1\Csharp_exc1\bin\Debug\net5.0\Csharp_exc1.exe
+C:\Szymek_pliki\Projekty_C#\Csharp_exc1\Csharp_exc1\bin\Debug\net5.0\Csharp_exc1.deps.json
+C:\Szymek_pliki\Projekty_C#\Csharp_exc1\Csharp_exc1\bin\Debug\net5.0\Csharp_exc1.runtimeconfig.json
+C:\Szymek_pliki\Projekty_C#\Csharp_exc1\Csharp_exc1\bin\Debug\net5.0\Csharp_exc1.runtimeconfig.dev.json
+C:\Szymek_pliki\Projekty_C#\Csharp_exc1\Csharp_exc1\bin\Debug\net5.0\Csharp_exc1.dll
+C:\Szymek_pliki\Projekty_C#\Csharp_exc1\Csharp_exc1\bin\Debug\net5.0\ref\Csharp_exc1.dll
+C:\Szymek_pliki\Projekty_C#\Csharp_exc1\Csharp_exc1\bin\Debug\net5.0\Csharp_exc1.pdb
+C:\Szymek_pliki\Projekty_C#\Csharp_exc1\Csharp_exc1\obj\Debug\net5.0\Csharp_exc1.csproj.AssemblyReference.cache
+C:\Szymek_pliki\Projekty_C#\Csharp_exc1\Csharp_exc1\obj\Debug\net5.0\Csharp_exc1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Szymek_pliki\Projekty_C#\Csharp_exc1\Csharp_exc1\obj\Debug\net5.0\Csharp_exc1.AssemblyInfoInputs.cache
+C:\Szymek_pliki\Projekty_C#\Csharp_exc1\Csharp_exc1\obj\Debug\net5.0\Csharp_exc1.AssemblyInfo.cs
+C:\Szymek_pliki\Projekty_C#\Csharp_exc1\Csharp_exc1\obj\Debug\net5.0\Csharp_exc1.csproj.CoreCompileInputs.cache
+C:\Szymek_pliki\Projekty_C#\Csharp_exc1\Csharp_exc1\obj\Debug\net5.0\Csharp_exc1.dll
+C:\Szymek_pliki\Projekty_C#\Csharp_exc1\Csharp_exc1\obj\Debug\net5.0\ref\Csharp_exc1.dll
+C:\Szymek_pliki\Projekty_C#\Csharp_exc1\Csharp_exc1\obj\Debug\net5.0\Csharp_exc1.pdb
+C:\Szymek_pliki\Projekty_C#\Csharp_exc1\Csharp_exc1\obj\Debug\net5.0\Csharp_exc1.genruntimeconfig.cache
